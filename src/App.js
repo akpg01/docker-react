@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>I was changed</p>
+      <p>I was changed on the FEATURE branch</p>
     </div>
   );
 }
